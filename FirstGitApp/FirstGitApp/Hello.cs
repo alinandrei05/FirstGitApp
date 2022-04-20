@@ -1,0 +1,6 @@
+﻿namespace FirstGitApp
+{
+    class Hello
+    {
+    }
+}
